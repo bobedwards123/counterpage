@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Counter page
+
+This is a simple page that will count the number of users who visit your site
 
 You can use the [editor on GitHub](https://github.com/bobedwards123/counterpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
